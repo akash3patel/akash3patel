@@ -85,7 +85,7 @@
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/akash3patel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akash-patel-9894a5137)
-[![Portfolio](![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg))](https://akash3patel.github.io/portfolio/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://akash3patel.github.io/portfolio/)
 
 ## 🧋 Favorite activity
 
