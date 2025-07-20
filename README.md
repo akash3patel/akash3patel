@@ -59,7 +59,7 @@
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)"/>
       <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ChromaDB-FF00FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)"/>
     </td>
   </tr>
 
