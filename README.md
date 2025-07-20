@@ -10,12 +10,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=akash3patel&show_icons=true&theme=tokyonight" 
     alt="Akash's GitHub stats" 
     height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkai03&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3patel&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     height="150"
   />
