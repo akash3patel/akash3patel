@@ -83,7 +83,7 @@
 
 ## 🤝 Connect with me!!
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/akash-patel-9894a5137)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/akash-patel-9894a5137/)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://akash3patel.github.io/portfolio/)
 
 ## 🧋 Favorite activity
