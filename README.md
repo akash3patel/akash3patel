@@ -1,10 +1,6 @@
 # Hi there, I'm Akash 👋
 ## Machine Learning Scientist @ Defence Research and Development Canada | MEng - Data Science, Analysis, and Artificial Intelligence @ Carleton University
 
-<p align="center">
-  <img src="Akash Patel.gif" alt="Cool animation" width="1000"/>
-</p>
-
 <div align="center">
   
   ![](https://github.com/akash3patel/stats/blob/master/generated/overview.svg)
