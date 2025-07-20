@@ -57,7 +57,7 @@
     <td><strong>Databases & Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)"/>
       <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/ChromaDB-FF00FF?style=flat-square"/>
     </td>
