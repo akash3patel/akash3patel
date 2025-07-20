@@ -84,7 +84,7 @@
 ## 🤝 Connect with me!!
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/akash3patel)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/akash-patel-9894a5137)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]](www.linkedin.com/in/akash-patel-9894a5137)
 [![Portfolio](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://akash3patel.github.io/portfolio/)
 
 ## 🧋 Favorite activity
