@@ -2,7 +2,7 @@
 ## Machine Learning Scientist @ Defence Research and Development Canada | 7x Hackathon Winner | 20K+ Content Creator | MEng - Data Science, Analysis, and Artificial Intelligence @ Carleton University
 
 <p align="center">
-  <img src="Akash Patel.gif" alt="Cool animation" width="800"/>
+  <img src="Akash Patel.gif" alt="Cool animation" width="1000"/>
 </p>
 
 <div align="center">
